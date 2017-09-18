@@ -1,0 +1,7 @@
+Blaah\Jee:
+    xml_root_name: Banana
+    properties:
+        foo:
+            type: string
+            xml_element:
+                cdata: false
